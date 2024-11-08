@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../FinalPro"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../drive-download-20231129T235512Z-001"
+		},
+		{
+			"path": "../TambahanNilaiMid"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tambahannilai1"
+	}
+}
